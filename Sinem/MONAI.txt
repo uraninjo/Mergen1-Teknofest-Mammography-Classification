@@ -1,0 +1,56 @@
+MONAI TANIM VE LLİNKLER
+
+MONAI is an acronym for Medical Open Network for AI. It is an open-source initiative for developing deep learning solutions in medical imaging. 
+MONAI provides a range of tools and utilities that enable researchers and developers to quickly build, train, and deploy deep learning models for 
+various medical imaging tasks.
+
+
+MONAI has a modular architecture that allows users to plug and play different components depending on their specific needs. It includes a comprehensive 
+set of pre-processing and augmentation techniques, as well as tools for data loading, model training, and inference. MONAI also provides support for
+ popular deep learning frameworks like PyTorch and TensorFlow.
+
+
+One of the key features of MONAI is its focus on reproducibility and transparency. It provides a set of standardized evaluation metrics and reporting
+ tools to ensure that the results of experiments are consistent and reproducible across different users and environments. MONAI also includes support 
+ for distributed training and inference, which can significantly reduce the time required for training and evaluation on large datasets.
+
+
+Overall, MONAI is a powerful tool for medical imaging researchers and developers looking to leverage the power of deep learning for their applications.
+
+MONAI, tıbbi görüntüleme için derin öğrenme çözümleri geliştirmek için açık kaynaklı bir girişimdir. MONAI, araştırmacıların ve geliştiricilerin 
+çeşitli tıbbi görüntüleme görevleri için hızlı bir şekilde derin öğrenme modelleri oluşturmasına, eğitmesine ve dağıtmasına olanak tanıyan bir dizi 
+araç ve yardımcı program sağlar.
+
+
+MONAI, kullanıcıların özel ihtiyaçlarına bağlı olarak farklı bileşenleri tak ve çalıştır yapmalarını sağlayan modüler bir mimariye sahiptir. 
+Kapsamlı bir ön işleme ve artırma teknikleri seti yanı sıra veri yükleme, model eğitimi ve çıkarım için araçlar gibi özellikleri içerir. MONAI ayrıca
+ PyTorch ve TensorFlow gibi popüler derin öğrenme çerçeveleri için destek sağlar.
+
+
+MONAI'nin ana özelliklerinden biri tekrarlanabilirlik ve şeffaflığa odaklanmasıdır. Deney sonuçlarının farklı kullanıcılar ve ortamlar arasında tutarlı 
+ve tekrarlanabilir olmasını sağlamak için standartlaştırılmış bir değerlendirme ölçütleri seti ve raporlama araçları sağlar. MONAI ayrıca büyük veri kümelerinde
+ eğitim ve değerlendirme için gereken zamanı önemli ölçüde azaltabilecek dağıtılmış eğitim ve çıkarım desteği sağlar.
+
+
+Genel olarak, MONAI, derin öğrenmenin gücünü uygulamaları için kullanmak isteyen tıbbi görüntüleme araştırmacıları ve geliştiricileri için güçlü bir araçtır.
+
+AI Toolkit for Healthcare Imaging
+
+The MONAI framework is the open-source foundation being created by Project MONAI. MONAI is a freely available, community-supported, PyTorch-based framework for 
+deep learning in healthcare imaging. It provides domain-optimized foundational capabilities for developing healthcare imaging training workflows in a native PyTorch paradigm.
+
+
+https://docs.monai.io/en/stable/installation.html --- indirme ve kurulum bilgileri
+
+https://github.com/Project-MONAI/tutorials --- github repoları
+https://github.com/Project-MONAI/monai-deploy/
+
+https://www.youtube.com/@ProjectMONAI --- kanalları varmış içerisinde işe yarar videolar var
+
+
+https://www.youtube.com/watch?v=Wi9suCluvs8 --bu daha çok yarar--- bu videolarda işimize yarayacak bilgiler var
+https://www.youtube.com/watch?v=mpVEiNW9qtw --bu da yarar
+
+https://www.kaggle.com/code/theoviel/breast-density-classification-using-monai -- kompozisyon pretrained
+https://www.kaggle.com/code/theoviel/dicom-resized-png-jpg -- kompozisyon pretrained için preprocessing
+https://monai.io/model-zoo.html --tüm modeller burada var medical olan
