@@ -22,7 +22,7 @@ https://drive.google.com/drive/folders/1rVuUYy5U5lcsq10peIxFpLRPgUWnXvqi?usp=sha
 
 **CC görüntüsü memenin üstten görüntülenmiş halidir.**
 
-**MLO görüntüsü memenin yanlardan görüntülenmiş halidir**
+**MLO görüntüsü memenin yanlardan görüntülenmiş halidir.**
 
 ## Kodlar Üzerine:
 Kodlardaki dosya sisteminde,
